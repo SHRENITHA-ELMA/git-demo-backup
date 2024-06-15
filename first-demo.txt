@@ -6,3 +6,4 @@ Developers can easily track and synchronize their data
 This git is really amazing 
 The modifications are identified easily 
 
+Git can even revert changes after commiting and pushing into the remote repository
