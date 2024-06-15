@@ -2,3 +2,6 @@ Hello World ,
 Welcome to version control systems 
 Git - for tracking and recording the changes made 
 Developers can easily track and synchronize their data
+
+This git is really amazing 
+The modifications are identified easily 
