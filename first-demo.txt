@@ -10,3 +10,5 @@ Adding branches and trying to merge them using checkout command
 
 Adding to the feature branch 
 
+Adding to check conflit by editimg same file in feature branch
+
