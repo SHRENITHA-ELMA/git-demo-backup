@@ -16,3 +16,5 @@ Editing the same file in the master branch to checkout the conflict
 Adding to check conflit by editimg same file in feature branch
 
 To push tags into remote repo.
+
+Git stash is a special storage to store the content which is not ready to be committed 
