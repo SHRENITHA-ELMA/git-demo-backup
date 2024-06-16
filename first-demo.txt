@@ -6,3 +6,5 @@ Developers can easily track and synchronize their data
 This git is really amazing 
 The modifications are identified easily 
 
+Adding branches and trying to merge them using checkout command 
+
