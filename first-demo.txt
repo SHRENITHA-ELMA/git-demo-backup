@@ -10,3 +10,4 @@ Adding branches and trying to merge them using checkout command
 
 Adding to the feature branch 
 
+Editing the same file in the master branch to checkout the conflict 
